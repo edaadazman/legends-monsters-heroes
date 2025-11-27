@@ -113,6 +113,9 @@ $ java -cp out Main
 
 ## Input/Output Example
 
+
+```text
+
 ===========================================
   LEGENDS: MONSTERS AND HEROES
   A Tale of Courage, Magic, and Glory
@@ -435,3 +438,5 @@ Q - Quit
 Enter command: q
 
 Thanks for playing! Safe travels, hero!
+
+```
